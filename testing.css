@@ -1,0 +1,13 @@
+.section2{
+    /* border: 2px solid black; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    justify-content: space-around;
+}
+
+.seperator{
+    width: 2px;
+    height: 30px;
+    background-color: gray;
+}
